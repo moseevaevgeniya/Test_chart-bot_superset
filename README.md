@@ -1,4 +1,4 @@
-<img src ="https://evilcoder.ru/wp-content/uploads/2017/09/TelegramMessenger.png\" width=100>"
+<img src ="https://evilcoder.ru/wp-content/uploads/2017/09/TelegramMessenger.png" width=100>"
 
 # wazzup  
 product analyst job test  
