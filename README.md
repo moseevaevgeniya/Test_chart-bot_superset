@@ -12,5 +12,5 @@ product analyst job test
 ● Внести данные о продаже  
 ● Получить отчет о продажах за период  
 **Результат:**  
-● [ссылка на файл]()  
-● [ссылка на бот]()
+● [ссылка на файл](https://github.com/moseevaevgeniya/wazzup/blob/d2ef061b1901ac6308655b4d89f3a91853c3ba13/wizzard.ipynb)  
+● [ссылка на бот](https://t.me/testwizzart_bot)
