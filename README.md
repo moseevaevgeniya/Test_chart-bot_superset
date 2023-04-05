@@ -1,5 +1,5 @@
-<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcReyae6v_NjByqshfjUhNtMgE-7c_zeYPt81IWrZ4dOqH5pYDvw" alt ="Test picture">
-\"https://evilcoder.ru/wp-content/uploads/2017/09/TelegramMessenger.png\"
+<img src ="https://evilcoder.ru/wp-content/uploads/2017/09/TelegramMessenger.png" alt ="Test picture">
+
 # wazzup  
 product analyst job test  
 ## Тестовое задание №1   
