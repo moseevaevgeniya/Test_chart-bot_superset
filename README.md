@@ -39,8 +39,10 @@ DATABASE NAME test USERNAME candidate PASSWORD 12345candidate
 DISPLAY NAME Postgre. Схема public, таблица ds.
 Не забываем публиковать
 дашборд.   
+
 **Результат:**  
 ● [ссылка на дашборд](https://d28e6176.us1a.app.preset.io/superset/dashboard/8/?native_filters_key=DDLmTZHcUz-x-0l2r-m-tPQIW48zpeAWhN7QbVMT1_GAhGDuDaZF0fuPJpr13v-g)
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZiYmE2YmM4ZmIwY2IxYTZmOTdjMTk3MTc0ZjJhYWM0MzAyN2E3NSZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
