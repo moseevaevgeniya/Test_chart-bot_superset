@@ -1,6 +1,6 @@
 <img src ="https://evilcoder.ru/wp-content/uploads/2017/09/TelegramMessenger.png" width=100>"
 
-# wazzup  
+# Тест  
 product analyst job test  
 ## Тестовое задание №1   
 #### Написать телеграм бота  
