@@ -41,7 +41,7 @@ DISPLAY NAME Postgre. Схема public, таблица ds.
 дашборд.   
 
 **Результат:**  
-● [ссылка на дашборд](https://d28e6176.us1a.app.preset.io/superset/dashboard/8/?native_filters_key=DDLmTZHcUz-x-0l2r-m-tPQIW48zpeAWhN7QbVMT1_GAhGDuDaZF0fuPJpr13v-g)
+● [ссылка на файл](https://github.com/moseevaevgeniya/Test_chart-bot_superset/blob/fd5828ad000d7086d60c5db91c396e71e46a6455/Komandor-Copy1%20(1).ipynb)
 
 
 <div id="header" align="center">
